@@ -1,6 +1,6 @@
 🛠️ Production Defects: A 5 Whys & Root Cause Analysis Dashboard
 
-  A structured diagnostic dashboard and root cause analysis presentation that uncovers the underlying issues behind rising production defects on the assembly line—using data-driven insights and actionable recommendations.
+  A structured diagnostic dashboard and root cause analysis presentation that uncovers the underlying issues behind rising production defects on the assembly line using data-driven insights and actionable recommendations.
 
 📌 Purpose
 
